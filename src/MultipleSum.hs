@@ -11,6 +11,6 @@ multipleSum :: Int -> Int -> Int
 multipleSum currenNumber total = 
     if currenNumber == 0
         then total
-        else if (multThreeFive (currenNumber * 3) )
-            then multipleSum (currenNumber - 1) (total + (currenNumber * 3) )
+        else if (multThreeFive ( (currenNumber * 2) + 1) )
+            then multipleSum (currenNumber - 1) (total + ( (currenNumber * 2) + 1) )
             else multipleSum (currenNumber - 1) total

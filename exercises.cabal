@@ -2,7 +2,7 @@
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: a34cebb8dabfa82f8e4633b60588c94a53c03cc0caeed8c33dca2bc5eba17592
+-- hash: 32f093e90d556a331d3e5a431b740e17a353e2505eae1bfc81a6d2bc7ccfc000
 
 name:           exercises
 version:        0.1.0.0
@@ -36,6 +36,7 @@ library
       Leap
       Lib
       MultipleSum
+      SquareDiff
       Throwaway
   other-modules:
       Paths_exercises

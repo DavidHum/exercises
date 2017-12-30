@@ -1,5 +1,7 @@
 module EvenList where
 
+  -- first N even numbers:
+
 evenList :: Int -> [Int] -> [Int]
 evenList n lst
   | n == 0 = lst
