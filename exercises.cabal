@@ -2,7 +2,7 @@
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 8b74840611872c54c72758082f67b98998ea820c38d4087ac256c84f4a41b6f3
+-- hash: 32f093e90d556a331d3e5a431b740e17a353e2505eae1bfc81a6d2bc7ccfc000
 
 name:           exercises
 version:        0.1.0.0
@@ -32,7 +32,12 @@ library
   build-depends:
       base >=4.7 && <5
   exposed-modules:
+      EvenList
+      Leap
       Lib
+      MultipleSum
+      SquareDiff
+      Throwaway
   other-modules:
       Paths_exercises
   default-language: Haskell2010
