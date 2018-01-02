@@ -2,7 +2,7 @@
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 32f093e90d556a331d3e5a431b740e17a353e2505eae1bfc81a6d2bc7ccfc000
+-- hash: 107dd400006b4d32acecdd1a4f01562dd5846b4444120a7d10f656c9e7c2d84e
 
 name:           exercises
 version:        0.1.0.0
@@ -32,6 +32,7 @@ library
   build-depends:
       base >=4.7 && <5
   exposed-modules:
+      EvenFibSum
       EvenList
       Leap
       Lib
