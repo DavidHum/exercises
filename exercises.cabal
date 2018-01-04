@@ -2,7 +2,7 @@
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 107dd400006b4d32acecdd1a4f01562dd5846b4444120a7d10f656c9e7c2d84e
+-- hash: 700308a4a388b95cf8512d62b8fd2c0e968dedcb08e631dc30ea34a9d27f9597
 
 name:           exercises
 version:        0.1.0.0
@@ -39,6 +39,7 @@ library
       MultipleSum
       SquareDiff
       Throwaway
+      VerifyIsbn
   other-modules:
       Paths_exercises
   default-language: Haskell2010
