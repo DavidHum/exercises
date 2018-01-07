@@ -2,7 +2,7 @@
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 700308a4a388b95cf8512d62b8fd2c0e968dedcb08e631dc30ea34a9d27f9597
+-- hash: 948210de0edacfc7a64e8706df0ec4bf0b771429000d992273fe10f01d8b9b6c
 
 name:           exercises
 version:        0.1.0.0
@@ -37,6 +37,7 @@ library
       Leap
       Lib
       MultipleSum
+      Pangram
       SquareDiff
       Throwaway
       VerifyIsbn
